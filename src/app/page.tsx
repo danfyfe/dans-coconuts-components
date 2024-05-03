@@ -1,4 +1,5 @@
-import Heading from "@/components/heading.tsx";
+import Heading from "@/components/heading";
+import Paragraph from "@/components/paragraph";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       <Heading className="text-5xl" el="h4">H4 Heading</Heading>
       <Heading className="text-4xl" el="h5">H5 Heading</Heading>
       <Heading className="text-3xl" el="h6">H6 Heading</Heading>
+      <Paragraph className="text-base">Paragraph text.</Paragraph>
     </main>
   )
 }
