@@ -1,1 +1,1 @@
-export { default as Heading } from './heading.tsx';
+export { default as Heading } from './heading.tsx/index.jsx';

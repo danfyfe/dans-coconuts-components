@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        heading: "Gilligan"
+        heading: "Roboto Condensed-Medium"
       },
     },
   },

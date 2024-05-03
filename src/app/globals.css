@@ -4,6 +4,6 @@
 @import url("/fonts/GILLIGAN.TTF");
 
 @font-face {
-    font-family: Gilligan;
-    src: url("/fonts/GILLIGAN.TTF") format("opentype");
+    font-family: "Roboto Condensed-Medium";
+    src: url("/fonts/RobotoCondensed-Medium.ttf") format("opentype");
   }
