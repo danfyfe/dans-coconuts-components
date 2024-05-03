@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url("/fonts/GILLIGAN.TTF");
+@import url("/fonts/RobotoCondensed-Medium.ttf");
 
 @font-face {
     font-family: "Roboto Condensed-Medium";
