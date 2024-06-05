@@ -1,3 +1,4 @@
 ### Overview
+Dan's Coconuts Components is a set of components that are intended to add accessibility checks.
 
-Set of components used to learn more about micro-frontends and component libraries.
+They run off of basic rules like alt tags for images, proper component hierarchies, and aria labels. 
