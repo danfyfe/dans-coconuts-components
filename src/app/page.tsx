@@ -1,4 +1,3 @@
-import UL from "./UL";
 
 export default function Home() {
   return (
