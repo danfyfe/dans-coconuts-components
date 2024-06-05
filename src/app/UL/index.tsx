@@ -9,4 +9,4 @@ const UL = ({ children }: { children: ReactElement<HTMLLIElement> | ReactElement
   )
 };
 
-export default withValidation(UL, { childrenType: 'li'});
+export default withValidation(UL, { childrenType: 'li', childrenRequired: true });
